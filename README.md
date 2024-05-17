@@ -3,7 +3,6 @@ Hi 👋 My name is Kamlesh Savale.
 
 * 🌍  I'm based in Mumbai
 * ✉️  You can contact me at [kamlesh2112sawale@gmail.com](mailto:kamlesh2112sawale@gmail.com)
-* 🧠  I'm learning Tensorflow
 
 ### Skills
 
